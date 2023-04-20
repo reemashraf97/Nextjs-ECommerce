@@ -1,0 +1,18 @@
+.shoppingCart {
+    position: relative;
+
+    .shoppingIcon {
+        position: absolute;
+        top: -8px;
+        right: -6px;
+        font-weight: 700;
+        color: black;
+        background-color: white;
+        font-size: 14px !important;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+}

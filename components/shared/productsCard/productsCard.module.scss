@@ -1,0 +1,19 @@
+.para {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.title {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.price {
+    font-weight: bolder;
+    color: red;
+}
+.category {
+    opacity: 0.6;
+}
